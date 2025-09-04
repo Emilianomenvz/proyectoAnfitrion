@@ -14,8 +14,8 @@ class elevarPotencia():
           self.__y=int(y)
           return
      def  operacion (self):
-         k= self.__x**self.__y
-         return k
+         p= self.__x**self.__y
+         return p
      
      
 
