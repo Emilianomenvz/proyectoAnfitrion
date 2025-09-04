@@ -1,0 +1,1 @@
+#Generar programa que eleve potencias y lea dos números#
